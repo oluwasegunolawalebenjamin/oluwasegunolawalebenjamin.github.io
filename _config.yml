@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Oluwasegun Olawale Benjamin"
+  pronouns         : # example: "he/him"  
+  bio              : "I am a Research and Teaching Assistant at Lagos Business School and an economist specializing in development, public sector, environmental sustainability, climate change, institutional quality (governance), health, and public policy. My research uses applied econometrics to address policy challenges in Africa, with the goal of producing evidence that informs effective, inclusive, and sustainable economic development."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Public Sector Initiative, Lagos Business School, Pan-Atlantic University"
   uri              : # URL
   email            : "none@example.org" 
 
